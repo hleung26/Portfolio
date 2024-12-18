@@ -1,0 +1,26 @@
+/* General Styles */
+
+body {
+    background-color: #bcb8b1;
+    margin: 5;
+    padding: 0;
+}
+
+/* Element Selector: Styling the main heading (h1) */
+
+h1 {
+    color: #8a817c;
+    text-align: center;
+    padding: 20px;
+}
+p { 
+    color: #f4f3ee; 
+}
+/* Class selectors */
+
+.highlight {
+    background-color: #f4f3ee;
+}
+
+
+/* ID Selectors */
